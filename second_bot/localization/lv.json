@@ -1,0 +1,12 @@
+{
+  "product_brand": "Izvēlaties telefona brendu, kuru vēlaties pārdot:",
+  "product_model":"zvēlaties telefona modeli:",
+  "memory":"Cik liela atmiņa telefonam?",
+  "iphone_batery":"Battery health ir 83% vai vairāk?",
+  "screen_defects": "Vai ekrānam ir kādi defekti?",
+  "back_problems": "Vai ir kādi defekti telefona aizmugurei?",
+  "others_defects": "Vai ir citi tehniski defekti?",
+  "error":"Kļūda!Mēģiniet vēlreiz!",
+  "price_answer":"Paldies Jums! Telefona atpirkšanas cena ir - ",
+  "price_answer2":"Sazinaties ar mums - "
+}

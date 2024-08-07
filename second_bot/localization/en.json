@@ -1,0 +1,12 @@
+{
+  "product_brand": "Choose phone brand, which you want to sell:",
+  "product_model":"Choose phone model:",
+  "memory":"How much memory is on the phone?",
+  "iphone_batery":"Battery health is 83% or above?",
+  "screen_defects": "Are there any defects with the screen?",
+  "back_problems": "Are there any defects on the back of the phone?",
+  "others_defects": "Are there any other technical defects?",
+  "error":"Error!Try again!",
+  "price_answer":"Thank you! Your phone’s buyout price is - ",
+  "price_answer2":"Contact us - "
+}
